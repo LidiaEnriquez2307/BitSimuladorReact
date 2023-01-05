@@ -1,19 +1,10 @@
 
 import './assets/css/Forms.css';
 import React from 'react-router-dom';
-
-
 import ModalCuerpo4  from './components/ModalCuerpo4';
-
-
 import { Fragment, useState , useEffect} from 'react';
-
 import Modal4 from './components/Modal4';
-import ModalCuerpo from './components/Modalcuerpo';
 import pdf from "./assets/images/pdf1.png"
-import person from "./assets/images/person.png"
-import Botones from './components/Botones';
-
 
 const  Formulario = (props)=> {
 

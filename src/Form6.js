@@ -1,18 +1,9 @@
 
 import './assets/css/Forms.css';
 import React from 'react-router-dom';
-
-import ObtenerFormulario from './components/ObtenerFormulario';
-import Modal  from './components/Modal';
 import ModalCuerpo6  from './components/ModalCuerpo6';
-import image from "./assets/images/word.png"
-
-import ModalCuerpo5  from './components/ModalCuerpo5';
-
 import { Fragment, useState , useEffect} from 'react';
 import Modal5 from './components/Modal5';
-import ModalCuerpo from './components/Modalcuerpo';
-import Botones from './components/Botones';
 import dropbox from "./assets/images/alert.jpg"
 
 

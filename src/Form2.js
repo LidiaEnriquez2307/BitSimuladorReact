@@ -2,11 +2,8 @@
 import './assets/css/Forms.css';
 import React from 'react-router-dom';
 import { Fragment,  useState , useEffect } from 'react';
-import ObtenerFormulario from './components/ObtenerFormulario';
 import Modal2  from './components/Modal2';
 import ModalCuerpo2  from './components/ModalCuerpo2';
-import image from "./assets/images/word.png"
-
 
 function Formulario() {
   const options = ["phishing", "legitimo",];

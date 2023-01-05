@@ -1,15 +1,10 @@
 
 import './assets/css/Forms.css';
 import React from 'react-router-dom';
-import ObtenerFormulario from './components/ObtenerFormulario';
-import Modal from './components/Modal';
 import ModalCuerpo7 from './components/ModalCuerpo7';
 import image from "./assets/images/google.png";
 import gmail from "./assets/images/gmail.png"
 import { Fragment, useState, useEffect } from 'react';
-import Modal5 from './components/Modal5';
-import ModalCuerpo from './components/Modalcuerpo';
-import Botones from './components/Botones';
 
 
 const Formulario = (props) => {
