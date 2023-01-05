@@ -2,12 +2,9 @@
 import './assets/css/Forms.css';
 import React from 'react-router-dom';
 import ModalCuerpo5 from './components/ModalCuerpo5';
-import image from "./assets/images/word.png"
-import ModalCuerpo4 from './components/ModalCuerpo4';
 import { Fragment, useState, useEffect } from 'react';
 import Modal5 from './components/Modal5';
-import ModalCuerpo from './components/Modalcuerpo';
-import Botones from './components/Botones';
+
 
 
 const Formulario = (props) => {

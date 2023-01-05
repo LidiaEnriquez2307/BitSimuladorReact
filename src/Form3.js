@@ -2,7 +2,6 @@
 import './assets/css/Forms.css';
 import React from 'react-router-dom';
 import { Fragment, useState , useEffect } from 'react';
-import ObtenerFormulario from './components/ObtenerFormulario';
 import Modal3  from './components/Modal3';
 import ModalCuerpo3  from './components/ModalCuerpo3';
 import dropbox from "./assets/images/dropbox.png"

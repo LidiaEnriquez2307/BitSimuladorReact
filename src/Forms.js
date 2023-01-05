@@ -2,12 +2,11 @@
 import './assets/css/Forms.css';
 import React from 'react-router-dom';
 import { Fragment, useState, useEffect } from 'react';
-import ObtenerFormulario from './components/ObtenerFormulario';
 import Modal from './components/Modal';
 import ModalCuerpo from './components/Modalcuerpo';
 import image from "./assets/images/word.png"
 import person from "./assets/images/person.png"
-import Botones from './components/Botones';
+
 
 
 const Formulario = () => {
